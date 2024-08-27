@@ -1,23 +1,23 @@
-import logo from './logo.svg';
+// src/App.js
+import React from 'react';
 import './App.css';
+import ListaDeProductos from './components/ListaDeProductos';
+import SubirProductos from './components/SubirProductos';
+import Registro from './components/Registro';
+import CrearAdmin from './components/CrearAdmin'; // Importa el componente de crear admin
+import Auth from './components/Auth'; // Importa el componente de autenticación
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <h1>Mi E-commerce</h1>
       </header>
+      <Auth /> {/* Agrega el componente de autenticación */}
+      <ListaDeProductos />
+      <SubirProductos />
+      <Registro />
+      <CrearAdmin /> {/* Solo para pruebas, no en producción */}
     </div>
   );
 }
