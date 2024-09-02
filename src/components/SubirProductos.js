@@ -1,6 +1,6 @@
 import React from 'react';
 import { getAuth } from 'firebase/auth';
-import { collection, addDoc, doc, getDoc } from 'firebase/firestore'; // Asegúrate de importar estas funciones
+import { collection, addDoc, doc, getDoc } from 'firebase/firestore';
 import { db } from '../firebase/firebaseConfig';
 
 const SubirProductos = () => {
@@ -21,6 +21,8 @@ const SubirProductos = () => {
       const docSnap = await getDoc(docRef);
       if (docSnap.exists()) {
         console.log('Datos del usuario:', docSnap.data());
+
+        // Verificar si el usuario es admin
         if (docSnap.data().rol === 'admin') {
           const productosCollection = collection(db, 'productos');
 

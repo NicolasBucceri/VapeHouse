@@ -1,5 +1,191 @@
 [
-    {
-        "nombre": "Ignite"
-    }
+  {
+    "id": "1",
+    "marca": "VOOPOO",
+    "categoria": "VOOPOO",
+    "pods": "Recargable",
+    "nombre": "VOOPOO - DRAG NANO 2 KIT",
+    "imgURL": "https://cigarrilloselectronicos.com.ar/cdn/shop/products/Numero007_a8edc560-65bd-4cd8-9dbc-26d19da0f5ad.webp?v=1699461904&width=1000",
+    "variantes": [
+      {
+        "color": "Rojo",
+        "imagenes": [
+          "https://cigarrilloselectronicos.com.ar/cdn/shop/products/Numero016_ff6f317c-fbb7-4ef2-8f46-2bf72dcacff9.webp?v=1660312397&width=500"
+        ]
+      },
+      {
+        "color": "Gris Metal",
+        "imagenes": [
+          "https://cigarrilloselectronicos.com.ar/cdn/shop/products/Numero019_737c5915-ac55-4163-94f8-fc73258ef433.webp?v=1660312397&width=1000"
+        ]
+      },
+      {
+        "color": "Verde",
+        "imagenes": [
+          "https://cigarrilloselectronicos.com.ar/cdn/shop/products/Numero025.webp?v=1699461909&width=1000"
+        ]
+      }
+    ],
+    "precio": 52626,
+    "precioDesc": 59990,
+    "stock": 30,
+    "descripcion": [
+      {
+        "descripcionNom": "VOOPOO - DRAG NANO 2 KIT",
+        "descripcionParr1": "  A diferencia de la serie DRAG anterior, el nuevo Drag Nano 2 tiene un cuerpo diminuto y poderoso a partes iguales. No solo perpetúa el desempeño profesional de la serie DRAG, sino que tambiéncreativamente ha conseguido una apariencia más pequeña a la par que exquisita. Con la característica de simplificar la complejidad en el exterior pero mantener la fuerza en el interior, el Drag Nano 2 te brindará una experiencia única.",
+        "descripcionImg1": "https://cdn.shopify.com/s/files/1/0562/9296/6584/files/image_1200x1200_12fbf0aa-ba14-44a2-941f-4545ff229301_480x480.jpg?v=1640720561",
+        "descripcionParr2": "Con unas reducidísimas dimensiones y un peso que te hará olvidar que lo llevas encima, el Drag Nano 2 te ofrece hasta 20w de potencia que se ve alimentada por una sorprendente batería de 800mAh embebida en su diminuto chasis. Su cartucho presenta una recarga muy sencilla, mostrando el nivel restante de líquido de manera muy clara y siendo compatible con los cartuchos de Vinci pod, con lo que siempre tendrás tu alternativa o plan B a punto en caso de que tengas más de un pod. ¡No te quedes sin vapear en momentos de apuro, ahora lo tienes más fácil que nunca!",
+        "descripcionImg2": "https://cdn.shopify.com/s/files/1/0562/9296/6584/files/VOOPOO-DRAG-Nano-2-Pod-Kit_04_7eePY_480x480.jpg?v=1640721090",
+        "descripcionParr3": "  Además su innovador sistema de flujo de aire infinito admite la regulación de cualquier tamaño de entrada de aire. Puedes obtener la experiencia más cómoda a través de este sistema independientemente del tipo de resistencia que se utilice o de los parámetros que se establezcan.",
+        "descripcionImg3": "https://cdn.shopify.com/s/files/1/0562/9296/6584/files/VOOPOO-DRAG-Nano-2-Pod-Kit_04_7eePY_480x480.jpg?v=1640721090",
+        "descripcionParr4": "Y para rematar, el exterior de este Drag Nano 2 mantiene el clásico diseño de la serie Drag así como el cuerpo de aleación de zinc, proporcionando una sensación realmente agradable al tacto. Con multitud de colores entre los que elegir, cuenta con tres modelos con piezas decorativas de policarbonato y un acabado más brillante y casi translúcido (Champagne, Blue y Carbon fiber), así como otros cinco modelos que heredan el diseño del Drag S Pro (Green, Grey, Orange, Black y Red) con una perfecta combinación entre metal sólido y resistente y cuero suave y delicado.",
+        "descripcionImg4": "https://cdn.shopify.com/s/files/1/0562/9296/6584/files/VOOPOO-DRAG-Nano-2-Pod-Kit-13_BGiKE_600x600.jpg?v=1640721398",
+        "descripcionEpecificaciones": [
+          {
+            "dimensiones": "72 x 44 x 14.2mm",
+            "capacidad": "2ml",
+            "batería": "800mAh (integrada)",
+            "rango de potencia": "8 - 20W",
+            "materiales": "PCTG, aleación de zinc + cuero/PC",
+            "puerto": "Puerto USB-C"
+          }
+        ],
+        "descripcionKit": [
+          {
+            "tituloKit": "¿Qué incluye el kit ?",
+            "item1": "1x Drag Nano 2",
+            "item2": "1x Recambio (resistencia 0.8ohm)",
+            "item3": "1x Recambio (resistencia 1.2ohm)",
+            "item4": "1x Cable USB-C",
+            "item5": "1x Cadena/colgante",
+            "item6": "1x Manual de Usuario"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "marca": "VOOPOO",
+    "categoria": "VOOPOO",
+    "pods": "Recargable",
+    "nombre": "VOOPOO - Argus Pod se",
+    "imgURL": "https://cigarrilloselectronicos.com.ar/cdn/shop/files/voopoo_argus_pod_se_kit2_73b00b30-fe85-4a79-a5f5-84a32daf2ae7.jpg?v=1695471231&width=1200",
+    "variantes": [
+      {
+        "color": "Naranja",
+        "imagenes": [
+          "https://cigarrilloselectronicos.com.ar/cdn/shop/products/voopoo_argus_pod_se_kitShinyOrange.jpg?v=1695471231&width=1000"
+        ]
+      },
+      {
+        "color": "Celeste",
+        "imagenes": [
+          "https://cigarrilloselectronicos.com.ar/cdn/shop/products/voopoo_argus_pod_se_kitShinyBlue.jpg?v=1693924213&width=1000"
+        ]
+      },
+      {
+        "color": "Marron",
+        "imagenes": [
+          "https://cigarrilloselectronicos.com.ar/cdn/shop/products/voopoo_argus_pod_se_kitBrown.jpg?v=1693924190&width=1000"
+        ]
+      }
+    ],
+    "precio": 50172,
+    "precioDesc": 82307,
+    "stock": 30,
+    "descripcion": [
+      {
+        "descripcionNom": "VOOPOO - Argus Pod se",
+        "descripcionParr1": "El VOOPOO - Argus Pod SE es tu compañero ideal en el mundo del vapeo. Con un diseño elegante y un rendimiento excepcional, te ofrece la libertad de disfrutar de diferentes sabores y estilos de vapeo. ¡No dejes pasar esta oportunidad de vapear como nunca antes con el Argus Pod SE!",
+        "descripcionImg1": "https://cdn.shopify.com/s/files/1/0562/9296/6584/files/Arguspodse_1024x1024.jpg?v=1693923384",
+        "descripcionKit": [
+          {
+            "tituloKit": "¿Qué incluye el kit ?",
+            "item1": "1x ARGUS POD SE Device",
+            "item2": "1x ARGUS POD Cartridge 0.7Ω",
+            "item3": "1x ARGUS PODCartridge 1.2Ω",
+            "item4": "1x Cable USB-C",
+            "item6": "1x Manual de Usuario"
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": "3",
+    "marca": "Maskking",
+    "categoria": "Maskking",
+    "pods": "Descartable",
+    "nombre": "Maskking - Aroma",
+    "imgURL": "https://cigarrilloselectronicos.com.ar/cdn/shop/products/Numero0012_42908e6b-f840-43bb-ba35-b38ccc2d9dbc.webp?v=1696258619&width=2000",
+    "variantes": [
+      {
+        "sabor": "Mixed Berries:",
+        "imagenes": [
+          "https://cigarrilloselectronicos.com.ar/cdn/shop/products/aroma3.webp?v=1694548329&width=800"
+        ]
+      },
+      {
+        "sabor": "Mango",
+        "imagenes": [
+          "https://cigarrilloselectronicos.com.ar/cdn/shop/products/aroma2.png?v=1694548313&width=800"
+        ]
+      }
+    ],
+    "precio": 30892,
+    "precioDesc": 19996,
+    "stock": 30,
+    "descripcion": [
+      {
+        "descripcionNom": "Maskking - Aroma",
+        "descripcionParr1": "  El Aroma presenta una variedad de relajantes colores de ensueño, desde el pastel hasta el azul helado, con tonos de hierba de limón en el medio. El Aroma es recargable y permite hasta 6000 caladas. Una forma cilíndrica cómoda con una superficie pulida hace que sea fácil de sostener y llevar en el bolsillo.",
+        "descripcionImg1": "https://cdn.shopify.com/s/files/1/0559/2262/2614/files/allflavor_1024x1024.png?v=1675279467",
+        "descripcionParr2": " El Maskking Aroma está un poco alejado del aspecto de su vaporizador desechable tradicional. Es más grande, más ancha y tiene una forma cilíndrica clásica, brindándote total comodidad en la palma de tu mano. Aunque parece grande, puede utilizar todo su espacio para tu placer de vapear.",
+        "sabores": [
+          {
+            "titulo": "Cool Mint:",
+            "descripcion": "Es el sabor más fresco, el sabor a menta hace que este maskking sea fresco, dulce y refrescante."
+          },
+          {
+            "titulo": "Lush Ice:",
+            "descripcion": "Es el dulce sabor de la sandía acompañado con refrescante hielo."
+          },
+          {
+            "titulo": "Mango:",
+            "descripcion": "Ofrece un delicioso y jugoso sabor a mango, que te aseguro que te encantará."
+          },
+          {
+            "titulo": "Peach:",
+            "descripcion": "Melocotón."
+          },
+          {
+            "titulo": "Mixed Berries:",
+            "descripcion": "Una sabrosa y armoniosa mezcla de frutos rojos que involucra jugosas fresas, frambuesas y arándanos."
+          },
+          {
+            "titulo": "Grape Paradise:",
+            "descripcion": "Ricas uvas con un toque de menta."
+          }
+        ],
+        "descripcionEpecificaciones": [
+          {
+            "dimensiones": "28*104,5mm",
+            "capacidad": "15ml",
+            "batería": "600 mAh",
+            "rango de potencia": "4,2 V",
+            "nicotina": "5%",
+            "puerto": "Puerto USB-C"
+          }
+        ],
+        "descripcionKit": [
+          {
+            "item1": "1x Maskking - Aroma "
+          }
+        ]
+      }
+    ]
+  }
+
 ]
